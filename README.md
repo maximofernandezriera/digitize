@@ -1,4 +1,7 @@
+### Codewars Convert number to reversed array of digits
+# https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/java
 
+## Pseudocódigo (es decir, análisis del problema)
 ```
 Función digitize(número):
     Si número es igual a 0:
